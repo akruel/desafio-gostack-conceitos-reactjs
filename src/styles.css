@@ -37,3 +37,10 @@ div li button {
   margin: 0 15px;
   background: #ca4949;
 }
+
+table {
+  border: 1px solid black;
+  border-width: thick;
+  border-color: black;
+  border-style: solid;
+}
